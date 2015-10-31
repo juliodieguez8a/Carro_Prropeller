@@ -1,6 +1,5 @@
 //Universidad del Valle de Guatemala
 //Algoritmos y Estructura de Datos
-
 //Jose Corona         14417
 //Boggdan Barrientos  14484
 //Julio Dieguez       14475
