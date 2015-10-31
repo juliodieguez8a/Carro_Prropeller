@@ -1,4 +1,5 @@
-//UVG Estructura de Datos
+//Universidad del Valle de Guatemala
+//Algoritmos y Estructura de Datos
 
 //Jose Corona         14417
 //Boggdan Barrientos  14484
